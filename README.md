@@ -1,4 +1,6 @@
-<h1>A little bit about ME 1</h1>
+
+<h1>Something about me 1</h1>
+
 
 - 👋 Hi, I’m @GrumpyCarebear
 - 👀 I’m interested in ... Learning everything IT
