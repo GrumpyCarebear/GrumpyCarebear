@@ -7,6 +7,7 @@
 - ⚡ Fun fact: ... Everything Tech is brand new to me even though I grew up when tech was starting 😆
 
 - Did I do this correctly? YES! I did it right! 🎆
+Now try and insert a free picture from the web:
 
 <!---
 GrumpyCarebear/GrumpyCarebear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
