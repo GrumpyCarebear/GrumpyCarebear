@@ -8,6 +8,8 @@
 
 - Did I do this correctly? YES! I did it right! 🎆
 
+  Now I need to see how I can add a picture from the web:
+
 <!---
 GrumpyCarebear/GrumpyCarebear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
