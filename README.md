@@ -1,4 +1,6 @@
+
 <h1>Something about me 1</h1>
+
 
 - 👋 Hi, I’m @GrumpyCarebear
 - 👀 I’m interested in ... Learning everything IT
@@ -10,6 +12,8 @@
 
 - Did I do this correctly? YES! I did it right! 🎆
 Now try and insert a free picture from the web:
+
+  Now I need to see how I can add a picture from the web:
 
 <!---
 GrumpyCarebear/GrumpyCarebear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
