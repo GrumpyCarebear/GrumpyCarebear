@@ -13,6 +13,11 @@
 Now try and insert a free picture from the web:
 
  **Now I need to see how I can add a picture from the web:**
+I took the example from GitHub but need to keep trying so I can add a sunset..
+
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 
 <!---
 GrumpyCarebear/GrumpyCarebear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
