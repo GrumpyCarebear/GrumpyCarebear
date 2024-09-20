@@ -1,5 +1,5 @@
 
-<h1>Something about me 1</h1>
+<h1>Something about me </h1>
 
 
 - 👋 Hi, I’m @GrumpyCarebear
