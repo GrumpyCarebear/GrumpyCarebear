@@ -6,7 +6,7 @@
 - 😄 Pronouns: ... She
 - ⚡ Fun fact: ... Everything Tech is brand new to me even though I grew up when tech was starting 😆
 
-- Did I do this correctly?
+- Did I do this correctly? YES! I did it right! 🎆
 
 <!---
 GrumpyCarebear/GrumpyCarebear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
