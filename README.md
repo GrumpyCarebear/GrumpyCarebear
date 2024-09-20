@@ -13,7 +13,7 @@
 Now try and insert a free picture from the web:
 
  **Now I need to see how I can add a picture from the web:**
-
+![[https://cdn.mos.cms.futurecdn.net/wtqqnkYDYi2ifsWZVW2MT4-650-80.jpg.webp](https://cdn.mos.cms.futurecdn.net/wtqqnkYDYi2ifsWZVW2MT4-650-80.jpg.webp)]
 <!---
 GrumpyCarebear/GrumpyCarebear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
