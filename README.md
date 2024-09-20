@@ -1,6 +1,6 @@
 <!--- Trying to add a header instead --->
-# ** A little bit about myself **
-
+ # About Me, sort of 😺
+ 
 - 👋 Hi, I’m @GrumpyCarebear
 - 👀 I’m interested in ... Learning everything IT
 - 🌱 I’m currently learning ... how to use GitHub, I have made so many repositories and deleted them! 
