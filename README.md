@@ -7,6 +7,7 @@
 - ⚡ Fun fact: ... Everything Tech is brand new to me even though I grew up when tech was starting 😆
 
 - Did I do this correctly? YES! I did it right! 🎆
+Now try and insert a free picture from the web:
 
   Now I need to see how I can add a picture from the web:
 
